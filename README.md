@@ -1,6 +1,6 @@
 #In development
 
-__plans__
+__■plans__
 
 After launching the app, Angular will also be running
 
@@ -24,3 +24,4 @@ npm run start
 ## License
 
 [MIT](LICENSE)
+This starter is copied from wuruoyun/electron-vue-spring, but because i don't like vue so i changed it to Angular.
