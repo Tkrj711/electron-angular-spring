@@ -24,4 +24,5 @@ npm run start
 ## License
 
 [MIT](LICENSE)
-This starter is copied from wuruoyun/electron-vue-spring, but because i don't like vue so i changed it to Angular.
+
+This starter is copied from [wuruoyun/electron-vue-spring](https://github.com/wuruoyun/electron-vue-spring), but because i don't like `vue` so i changed it to .
